@@ -1,0 +1,4 @@
+interface:
+  display_name: "Design GC"
+  short_description: "Recommend three style directions before building a page"
+  default_prompt: "Use $design-gc to recommend three webpage design styles, preview each one, then build the selected direction."
