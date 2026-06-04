@@ -7,13 +7,13 @@ Codex skill for webpage design work: it recommends three distinct visual directi
 One-line install:
 
 ```bash
-npx skills add zhoulongyu957-sys/设计-gc
+npx skills add zhoulongyu957-sys/design-gc
 ```
 
 If your shell has trouble with the Chinese repository name, use the full GitHub URL:
 
 ```bash
-npx skills add https://github.com/zhoulongyu957-sys/设计-gc
+npx skills add https://github.com/zhoulongyu957-sys/design-gc
 ```
 
 Local install during development:
